@@ -148,7 +148,6 @@ async def generate_image_prodia(prompt, model, sampler, seed, neg):
     app_commands.Choice(name='🌌 MechaMix', value='MECHAMIX'),
     app_commands.Choice(name='🌌 MeinaMix', value='MEINAMIX'),
     app_commands.Choice(name='🌌 Stable Diffusion v14', value='SD_V14'),
-    app_commands.Choice(name='🌌 Stable Diffusion v15', value='SD_V15'),
     app_commands.Choice(name="🌌 Shonin's Beautiful People", value='SBP'),
     app_commands.Choice(name="🌌 TheAlly's Mix II", value='THEALLYSMIX'),
     app_commands.Choice(name='🌌 Timeless', value='TIMELESS')
